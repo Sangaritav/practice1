@@ -1,1 +1,1 @@
-print("Git Bash Class")
+nombre = input("Ingrese su nombre")
