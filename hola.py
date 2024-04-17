@@ -1,1 +1,1 @@
-print("Git Bash Class")
+x = "hola"
